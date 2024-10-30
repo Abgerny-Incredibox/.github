@@ -1,0 +1,20 @@
+{
+  "name": "abgerny-incredibox",
+  "version": "1.0.0",
+  "description": "A fan-made mod of Incredibox for creating unique, surreal musical compositions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/abgerny-incredibox.git"
+  },
+  "keywords": ["abgerny", "incredibox", "music", "game"],
+  "author": "Abgerny Game Dev Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
